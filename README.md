@@ -4,7 +4,7 @@ Este es un proyecto hecho en laravel. Para realizar la clonación de este proyec
 Teniendo el proyeco clonado se tiene que ingresar por me dio de la consola o Terminal a la carpeta de la clonacion y ejecutar los siguientes comando:
 
 npm install
-nom install composer
+npm install composer
 
 luego de terminar con la instalación podemos configurar la conexion a la base de datos, en el archivo env.exmaple, este archivo tiene que se duplicado pero el nombre debe ser '.env'. Y en el archivo cambiar los siguiente:
 
